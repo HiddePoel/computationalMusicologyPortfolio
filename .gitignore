@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+compmus2026-w09.Rmd
+.gitignore
+homeworkWeek9/remix.flac
+homeworkWeek9/original.flac
